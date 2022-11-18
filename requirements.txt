@@ -85,7 +85,7 @@ idna
 imageio
 imagesize==1.2.0
 importlib-metadata
-iniconfig @
+iniconfig
 intervaltree
 ipykernel
 ipython
